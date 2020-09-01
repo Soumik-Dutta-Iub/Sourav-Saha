@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#navid{
+    background-color:#383e56!important;  
+}
+
+.navbar-nav a{
+    color: white!important;
+    
+   
+}
+.navbar-nav{
+    justify-content: center !important;
+}
+
+.navbar-brand{
+    color:#ea907a !important;
+    
+}
+.mid-div{
+    background-color:#ea907a;
+    padding: 15px; 
+    text-align: center;
+}
+.intro-div img{
+    width: 80%;
+    padding: 15px;
+    margin-left: 60px;
+}
+
+.intro-h6{
+    padding: 30px;
+    margin-left: 60px;
+}
+.footer-top{
+    background-color: #a7e9af;
+    text-align: center;
+    /* height: 45%; */
+    padding: 15px;
+    
+}
+.footer-top a{
+    margin: 4px;
+}
+.footer-top h6{
+    text-align: left;
+}
+.buttom-footer{
+    height:8%;
+    background-color: #75b79e;
+    color: #75b79e;
+}
+div.card{
+    margin: 20px;
+    margin-right:25px;
+}
+
+/* div.edu.card{
+    margin-left: 20px;
+} */
+div.edu{
+     /* padding:20px; */
+}
+/* div.edu h2{
+    margin-right: 180px;
+} */
+/* div.card{
+    margin-right:60px;
+} */
+div.container-fluid.edu{
+    background-color:#a6b1e1;
+    text-align:center;
+}
+/* div.container-fluid.edu.card{
+    con;
+} */
+div.text{
+    margin-top:60px;
+    margin-right: 40px;
+}
